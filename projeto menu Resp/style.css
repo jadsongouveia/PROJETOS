@@ -89,7 +89,7 @@ body{
     pointer-events: none;   
     display: block;
 }
-.sidebar:active ul li .tooltip{
+.sidebar.active ul li .tooltip{
     display: none;
 }
 .sidebar ul li:hover .tooltip{
